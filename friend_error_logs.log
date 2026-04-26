@@ -1,0 +1,4 @@
+2026-02-02 03:03:33,822 - ERROR - ZeroDivisionError: Tried dividing 7 by zero.
+2026-02-02 03:03:33,827 - ERROR - TypeError: Invalid types x, 10
+2026-02-02 03:03:33,851 - ERROR - IndexError: Index 10 out of range for list.
+2026-02-02 03:03:33,859 - ERROR - RuntimeError: Simulated runtime error for demo!
